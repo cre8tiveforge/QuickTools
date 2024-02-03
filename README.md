@@ -1,7 +1,9 @@
 # QuickTools
 tools that can be run from a single file and are location independent 
 
-GitCloneClipboard.bat
+---------
+
+## GitCloneClipboard.bat
 - quickly clone a github repo anywhere on your computer
 - place this bat file in the folder you want the repo and run it, that simple
 - as the repo is cloned a new folder will be created matching the repos name
